@@ -1,0 +1,51 @@
+        /* visas langas */
+body {
+    background-color: #EBECEE;
+} 
+        /* main lentele  */
+    #tevas {
+       
+        display: inline-block;
+        width: 700px;
+        margin-top: 120px;
+        margin-left: 500px;
+       
+    }
+            /* piesinukas */
+        #kairys {
+            display: inline-block;
+            width: 50%;
+            float: left;
+            }
+            /* uzrasai */
+            #desinys {
+                display: inline-block;
+                width: 50%;
+                text-align: center;
+                float: left;
+                }
+           h1 {
+               font-size: 80px;
+               color: #363E49;
+                display: inline-block;
+                margin-bottom: 0;
+           }
+           #ilgas {
+                font-size: 25px;
+                display: inline-block;
+                margin-top: 0;
+                margin-bottom: 0;
+           }
+           #trumpas {
+            display: inline-block;
+            font-size: 16px;
+            color: #6E7182;
+           }
+
+            a {
+                display: inline-block;
+                text-decoration: none;
+                color: white;
+                background-color: #636A86;
+                padding: 15px;
+            }
